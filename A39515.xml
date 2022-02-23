@@ -1,0 +1,324 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Earnest exhortation from a minister to his parishioners to discharge the duty of morning and evening prayer in their families with a collection of prayers suited to those two seasons.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39515</idno>
+            <idno type="STC">Wing E97</idno>
+            <idno type="STC">ESTC R40391</idno>
+            <idno type="EEBO-CITATION">18972421</idno>
+            <idno type="OCLC">ocm 18972421</idno>
+            <idno type="VID">108525</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39515)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108525)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1667:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Earnest exhortation from a minister to his parishioners to discharge the duty of morning and evening prayer in their families with a collection of prayers suited to those two seasons.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by S. Bryan,</publisher>
+                  <pubPlace>Worcester :</pubPlace>
+                  <date>[1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tightly bound, with some loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Prayer-books and devotions.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108525:1"/>
+            <p>AN EARNEST EXHORTATION FROM <hi>A Miniſter</hi> TO HIS PARISHIONERS, To Diſcharge the DUTY of Morning AND Evening Prayer IN THEIR <hi>FAMILIES.</hi>
+            </p>
+            <p>WITH A Collection of PRAYERS ſuited to thoſe two SEASONS.</p>
+            <p>
+               <hi>WORCESTER:</hi> Printed by <hi>S. Bryan.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="exhortation_to_prayer">
+            <pb n="2" facs="tcp:108525:2"/>
+            <head>An Exhortation to Family PRAYER.</head>
+            <p>ALTHO' Prayer in Our Families is a Duty that we owe to Almighty God, and is both reaſonable in it ſelf, and highly advantagious to us, yet 'tis to be feared that there are too many Families amongſt us, who are fallen into ſuch a thoughtleſs State, as to go on in a daily Neglect of it. That you may not per<g ref="char:EOLhyphen"/>ſevere in this Sin (which is the Occaſion of many other) for want of Arguments to di<g ref="char:EOLhyphen"/>ſwade you from it, or for want of Helps to enable you to Diſcharge it as you ought, I have put this ſmall Book into your Hand; and that God may make it Effectual to perſwade and aſſiſt you to Diſcharge this Duty which is ſo Advantagious to your Souls, is the Prayer of him who ſincerely and heartily wiſheth their Salvation.</p>
+            <p>To make you ſenſible of the Benefit of Pray<g ref="char:EOLhyphen"/>ing to God in your Family, I deſire you to conſider,</p>
+            <p>
+               <hi>Firſt,</hi> The many Dangers to which we are Expoſed, and that we cannot by our own Skill or Strength avoid them. The Body is liable to a hundred Diſeaſes, and many Accidents as Fa<g ref="char:EOLhyphen"/>tal; and the Soul to infinite Temptations from the World, the Fleſh, and the Devil; and the only Security we have againſt Dangers, is God's Providence, and againſt Temptation, the Aſſiſtance of his Grace; which, becauſe we daily want, we muſt daily pray for, and
+<pb n="3" facs="tcp:108525:2"/>
+'tis great Encouragement for us to do ſo. <hi>2dly</hi> Becauſe Chriſt hath promiſed his Preſence with us, <hi>Mat 18. 19, 20. Where two or three are gathered together, there am I in the midſt of them.</hi> He will be always ready to hear and aſſiſt the Prayers of good Men, in what Place, or at what time ſoever they are made, more eſpecially when they are ſent up with united Hearts and Souls.</p>
+            <p>A Third Encouragement to Family Prayers is, that it promotes Religion in them; for no Member thereof can wholly forget God, and another World, while they are every Day re<g ref="char:EOLhyphen"/>minded of both in Prayer. Children are here<g ref="char:EOLhyphen"/>by trained up from their Infancy in a Habit of Devotion; and Servants have an Opportunity of ſerving God their great Maſter every Day, and by this means Parents and Maſters Diſ<g ref="char:EOLhyphen"/>charge God's ſtrict Command, of bringing up their Children and Servants in the Nurture and Admonition of the Lord; hereby they Plant in their Hearts, a true ſenſe of Piety and Devotion; and they, when they come to be Parents and Maſters, will teach their Children and Servants the ſame.</p>
+            <p>There is a general Complaint (and I would to God there were no reaſon for it) that the Age we now live in, is moſt abominably Wicked; that there is not only a Decay of Chriſtian Piety, but Mens Hearts are ſet upon Wickedneſs; and though we may wiſh and Pray for a Reformation of Manners, yet it cannot be expected till we and our Families keep the
+<pb n="2" facs="tcp:108525:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:108525:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:108525:4"/> Lord's-Day more Holy, and till we ſet up in our Families, conſtant Morning and Evening Prayer, for by this means the Spirit of Religi<g ref="char:EOLhyphen"/>on will be tranſmitted at leaſt to the Generati<g ref="char:EOLhyphen"/>ons to come. <hi>4thly,</hi> Family-Prayers are a great Check to all the vicious Members in them, for they will put them in mind, that there is a God and another World; and that thoſe who Ex<g ref="char:EOLhyphen"/>pect to be happy hereafter, muſt daily beg of God that they may live Holy Lives whilſt they are here. This is the great End and Deſign of all our Prayers.</p>
+            <p>And although Perſons who have long conti<g ref="char:EOLhyphen"/>nued in a Habit of Sin, may not heartily join with their more pious Brethren, yet they will be thereby put in mind, that where daily Prayers are continued in a Family, it is in order to pre<g ref="char:EOLhyphen"/>ſerve them from Dangers and Temptations, and to ſecure their everlaſting Happineſs, af<g ref="char:EOLhyphen"/>ter the Troubles and Miſeries of this Life are ended; and they may be brought ſometime or other to believe, that 'tis not ſafe for them to continue in thoſe Sins which they hear their Fellow Chriſtians Pray ſo heartily againſt eve<g ref="char:EOLhyphen"/>ry Day, that God would deliver them from. The Sermons of Miniſters are through Preju<g ref="char:EOLhyphen"/>dice, Careleſsneſs, and Hardneſs of Heart, ſoon forgotten: But when the Thoughts of God and another World are thus daily re<g ref="char:EOLhyphen"/>new'd in their daily Prayers, they will be ſome Check to the wicked Inclinations, and wicked Courſes of deſperate Sinners; and I queſtion not but many of them have been reſtrain'd,
+<pb n="5" facs="tcp:108525:4"/> and ſome reform'd from their Wickedneſs, by living in ſuch Families where daily Prayers have been kept up.</p>
+            <p>
+               <hi>Fifthly,</hi> As Family-Prayers are thus uſeful to reform the bad Members of it, ſo are they an Excellent Means of Confirming thoſe that are good, and to cauſe them to perſevere and grow in Grace, and ſo to fit them more and more for Glory.</p>
+            <p>The Hearts of Men are generally inclin'd to what is Evil, and averſe to what is Good; they are daily expoſed to the Temptations of the World, the Fleſh, and the Devil, and too apt to be Overcome by them; and therefore God hath made it our conſtant Work to watch and ſtrive againſt them. For the doing of this Effectually, he hath enjoyn'd Reading and Me<g ref="char:EOLhyphen"/>ditating on his Holy Word, and more eſpeci<g ref="char:EOLhyphen"/>ally daily Prayer; for this Duty will be of the greateſt Advantage to us, as it tends to awa<g ref="char:EOLhyphen"/>ken our Care and Diligence in the Buſineſs of Religion; and as it does (if 'tis ſincerely Per<g ref="char:EOLhyphen"/>form'd) effectually engage the Divine Aſſiſtance to ſecond our Care and Endeavours, and ſe<g ref="char:EOLhyphen"/>cure them from Miſcarriage, and without the aid of God's Spirit, and his Bleſſing upon our Endeavours, they will be ineffectual, and ſig<g ref="char:EOLhyphen"/>nify nothing; and this aid is not to be obtain'd without Prayer. 'Tis this which invites this bleſſed Gueſt into our Souls, and cauſeth him to enter in and dwell there, and to make us more hearty and ſucceſsful in our Endeavours after that Holineſs, without which we cannot ſee God.</p>
+            <pb n="6" facs="tcp:108525:5"/>
+            <p>And ſince our daily Prayers contain in them Confeſſion of our Sins, if we pray with Un<g ref="char:EOLhyphen"/>derſtanding, and ſo as to mind what we are doing, they will put us under a Neceſſity of daily Examination, by which our Repentance will keep P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ace with our Tranſgreſſion, we ſhall have a better Knowledge of our Spiritual State, and we ſhall be better prepar'd to ren<g ref="char:EOLhyphen"/>der up our Accounts when God doth call for them.</p>
+            <p>
+               <hi>Sixthly,</hi> By keeping up daily Prayers in our Families, we ſhall more readily, and more de<g ref="char:EOLhyphen"/>voutly attend upon the Publick Service in the Church, where all good Chriſtians are oblig'd to meet on the Lord's day, with united Hearts, <hi>to render thanks for thoſe Benefits which we have received at his Hands, to ſet forth his moſt wor<g ref="char:EOLhyphen"/>thy Praiſe, to hear his moſt holy Word, and to ask thoſe things that are requiſite and neceſſary, as well for the Body as the Soul.</hi> For 'tis the ſame Spi<g ref="char:EOLhyphen"/>rit of Devotion that doth make us fit both for Publick and Private Prayer, and happy is that Soul who takes care to keep it up, and will not ſuffer it to fall and languiſh as moſt cer<g ref="char:EOLhyphen"/>tainly it will do for want of daily Exerciſe; This is too evident amongſt the poorer ſort of People, who having ſtupidly omitted the Du<g ref="char:EOLhyphen"/>ty of Prayer in their own Houſe, proceed at laſt to a total Neglect of it in God's.</p>
+            <p>Nor hath this Neglect of Family-Prayer, only had this unlucky Influence on the Poor, as to make them neglect Publick Prayer; but it hath had almoſt as bad a one upon thoſe who
+<pb n="7" facs="tcp:108525:5"/> are of better underſtanding, and better ability, for ſome of them being ſtrangers to the devout Performance of Prayers in their Families upon week days, they do not perform it with that Spirit which they ought upon Sundays, for their Hearts are cold, and their thoughts, as well as their Eyes, are wandering.</p>
+            <p>
+               <hi>Seventh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y.</hi> In order to promote Prayers in your Families, let me deſire you to conſider that dreadful imprecation upon thoſe Families which are Prayerleſs <hi>Jer. 10 25. Pour out thy fury upon the Heathen that know thee not, and upon the Fami<g ref="char:EOLhyphen"/>lies that have not called upon thy Name.</hi> This Curſe hath en<g ref="char:EOLhyphen"/>tred in a viſible manner upon many Prayerleſs Families, whom God in his Judgment hath given up to a reprobate Senſe, and vile Affections, to commit all Uncleanneſs with greedineſs, and fall from one Wickedneſs to another, with<g ref="char:EOLhyphen"/>out any ſtop or reſtraint: O let the dread of this Judgment prevail with you to ſet up Prayers in your Families, that ſo you may prevent its falling on them.</p>
+            <p>
+               <hi>Laſtly,</hi> Let us conſider that there are terrible Days which will come, and altho' our Prayers cannot prevent them, yet by the conſtant and devout Exerciſe of Prayer, we ſhall be better prepar'd for them; and therefore our bleſſed Savi<g ref="char:EOLhyphen"/>our doth moſt earneſtly exhort his Diſciples to this holy Ex<g ref="char:EOLhyphen"/>erciſe, <hi>Luke 21. 34, 35, 36. Take heed to your ſelves leaſt at any time your hearts be overcharged with Surfeitings and Drun<g ref="char:EOLhyphen"/>kenneſs, and the cares of this Life, and ſo that Day come upon you unawares, for as a ſnare ſhall it come upon all them that dwell on the face of the Earth; watch ye therefore and Pray always, that ye may be accounted worthy to eſcape all theſe things that ſhall come to paſs, and to ſtand before the Son of man.</hi> So that watching and praying are the beſt Prepara<g ref="char:EOLhyphen"/>tion againſt all evil Days that may come, but more eſpeci<g ref="char:EOLhyphen"/>ally our greateſt Support, at thoſe moſt terrible Days of Death and Judgment which certainly will come.</p>
+            <p>There are two Excuſes which Men generally make, for their omitting this Duty, which I ſhall ſhew the Weakneſs and Inſufficiency of.</p>
+            <p>
+               <hi>Firſt.</hi> The want of Time.</p>
+            <p>
+               <hi>Secondly.</hi> The want of Ability to perform it.</p>
+            <p>
+               <hi>Firſt.</hi> As for the want of time to perform it, I beg you to conſider, whether 'tis not very unmannerly, as well as
+<pb n="8" facs="tcp:108525:6"/> very ſinful, to anſwer God when he calls you to Prayers, <hi>I will come when I have nothing elſe to do.</hi> And how would you take ſuch an Anſwer from your Child or your Servant <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Beſides, you cannot ſpend any part of your Time better than in Prayer, becauſe that time which is thus ſpent, will turn to your greateſt Advantage, both in reſpect of this Life and another. For, as it procures Gods Bleſſing upon you, it will be a means of making you proſper in the World more than all your other Labours can, without it; and as it will pro<g ref="char:EOLhyphen"/>mote the good of your Souls in the ſeveral reſpects before<g ref="char:EOLhyphen"/>mention'd, 'twill turn to your higheſt and moſt unſpeakable benefit hereafter Beſides, the Prayers that are here recom<g ref="char:EOLhyphen"/>mended to you, will take up ſo very little time, that it can<g ref="char:EOLhyphen"/>not be any conſiderable hind rance to thoſe that work hardeſt, and have moſt Buſineſs to do. And I am ſure no Man ought ſo to imploy his time for the Service of his Body, as utterly to neglect his Soul. And I am afraid there are many who eve<g ref="char:EOLhyphen"/>ry day ſpend more time than this Duty does require, much worſe. And I earneſtly beg you to conſider, how little this Excuſe can avail with God Almighty, when at the ſame time you make it, your own Conſciences muſt tell you that 'tis not true. As for the</p>
+            <p>
+               <hi>Second</hi> hind rance of this Duty of Prayer, that you want Ability to perform it as you ought, I have for your aſſiſtance collected the following Prayers out of the <hi>Common-Prayer Book,</hi> and the Prayer for Grace, out of <hi>the whole Duty of Man,</hi> and if you offer them up to God, as our Church di<g ref="char:EOLhyphen"/>rects, with an humble, lowly, penitent, and obedient heart, they will be an acceptable Morning and Evening Sacrifice to Him.</p>
+            <p>May all thoſe for whoſe uſe this ſhort Exhortation to Fa<g ref="char:EOLhyphen"/>mily-Prayer is Printed, read it often and conſider it ſeriouſly as a matter that Concerns the Good of their Souls, and may as many as have not ſet up this Godly Practice in their Families, put on a Reſolution to begin it this Day, and not any longer neglect that Duty which conduceth ſo much to promote the Glory of God, and the Salvation of their Children and Servants Souls, as well as of their own.</p>
+            <div type="morning_prayer">
+               <head>Prayers for MORNING.</head>
+               <p>LOrd we know not what to pray for as we ought: O let thy bleſſed Spirit, help our
+<pb n="9" facs="tcp:108525:6"/> Infirmities, and keep us from all cold deſires, and wandering Thoughts, from Impenitence, Uncharitableneſs, and hardneſs of Heart, and whatſoever may make them unacceptable to thee, through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p>ALmighty and everlaſting God, who hateſt nothing that thou haſt made, and doſt forgive the ſins of all them that are penitent, create in us new and contrite Hearts, that we worthily lamenting our Sins, and acknowledg<g ref="char:EOLhyphen"/>ing our Wretchedneſs, may obtain of thee the God of all Mercy, perfect remiſſion and for<g ref="char:EOLhyphen"/>giveneſs, through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p>ALmighty and moſt merciful Father, we have erred and ſtrayed from thy ways like loſt ſheep. We have followed too much the devices and deſires of our own hearts. We have offended againſt thy holy laws. We have left undone thoſe things which we ought to have done; And we have done thoſe things which we ought not to have done; And there is no health in us. But thou, O Lord, have mercy upon us miſerable Sinners. Spare thou them, O God, which confeſs their faults; Re<g ref="char:EOLhyphen"/>ſtore thou them that are penitent; According to thy promiſes declared unto mankind in Chriſt Jeſus our Lord. And Grant, O moſt merciful Father for his ſake; That we may hereafter live a godly, righteous, and ſober life; to the glory of thy holy Name. <hi>Amen.</hi>
+               </p>
+               <p>O Lord we beſeech thee to hear our Pray<g ref="char:EOLhyphen"/>ers; and ſpare all thoſe who confeſs their Sins unto thee; That they whoſe Con<g ref="char:EOLhyphen"/>ſciences
+<pb n="10" facs="tcp:108525:7"/> by Sin are accuſed by thy merciful Pardon, may be abſolved, through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p>O God, who art the Author of Peace, and Lover of Concord, in Knowledge of whom ſtandeth our eternal Life, whoſe Service is perfect Freedom; Defend us thy humble Servants in all Aſſaults of our Enemies, that we ſurely truſting in thy Defence, may not fear the Power of any Adverſaries, through the Might of Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p>O Lord our Heavenly Father, Almighty and Everlaſting God, who haſt ſafely brought us to the beginning of this day; De<g ref="char:EOLhyphen"/>fend us in the ſame by thy mighty Power, and grant that this day we fall into no Sin, neither run into any kind of Danger; but that all our doings may be ordered by thy Governance, to do always that is righteous in thy ſight, through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p>ALmighty and everlaſting God, who art always more ready to hear than we to pray, and art wont to give more than either we deſire, or deſerve; pour down upon us the abundance of thy Mercy, forgiving us thoſe things whereof our Conſcience is afraid, and giving us thoſe good things, which we are not worthy to ask, but through the Merits and Mediation of Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p>O Lord, who haſt taught us, that Fleſh and Blood cannot enter into the King<g ref="char:EOLhyphen"/>dom of God; Give us Grace we beſeech thee<g ref="char:punc">▪</g> ſo to ſubdue all its ſinful Motions and
+<pb n="11" facs="tcp:108525:7"/> Suggeſtions, that we may wholly ſubmit to the Guidance of thy holy Spirit; and forſaking ill worldly and carnal Affections, may be ever<g ref="char:EOLhyphen"/>more ready to follow thy holy Commandments, through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p>O God the Creator and Preſerver of all Mankind, we humbly beſeech thee for all ſorts and conditions of men, that thou wouldſt be pleaſed to make thy ways known unto them, thy ſaving health unto all Nations. More eſpecially we pray for the good e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tate of the Catholick Church, that it may be ſo guided and govern'd by thy good Spirit, that all who pro<g ref="char:EOLhyphen"/>feſs and call themſelves Chriſtians, may be led into the way of truth, and hold the faith in unity of ſpirit, in the bond of Peace, and in righteouſneſs of Life. Finally, we commend to thy Fatherly goodneſs all thoſe who are a<g ref="char:EOLhyphen"/>ny ways afflicted or diſtreſſed in mind, body, or eſtate, that it may pleaſe thee to comfort and relieve them according to their ſeveral neceſſities, giving them patience under their ſufferings, and a happy iſſue out of all their Afflictions. And this we beg for Jeſus Chriſt his ſake. <hi>Amen.</hi>
+               </p>
+               <p>ALmighty God, Father of all Mercies, we thine unworthy ſervants do give thee moſt humble and hearty thanks for all thy goodneſs and loving kindneſs to us and to all <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en. We bleſs thee for our Creation, Preſer<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ation, and all the bleſſings of this Life, but <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bove all for thine ineſtimable love in the Re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emption of the World by our Lord Jeſus
+<pb n="12" facs="tcp:108525:8"/> Chriſt; for the means of Grace, and for the hope of glory. And we beſeech thee give us that due ſenſe of all thy mercies, that our hearts may be unfeignedly thankful, and that we may ſhew forth thy praiſe, not only with our lips, but in our lives, by giving up our ſelves to thy ſervice, and by walking before thee in holineſs and righteouſneſs all our days through Jeſus Chriſt our Lord; to whom with thee and the holy Ghoſt, be all honour and glo<g ref="char:EOLhyphen"/>ry, world without end. <hi>Amen.</hi>
+               </p>
+               <div type="part">
+                  <p>ALmighty God, who haſt promiſed to hear the petitions of them that ask in thy Sons Name; We beſeech thee mercifully to incline thine ear to us who have made now our prayers and ſupplications unto thee; and grant that thoſe things which we have faithfully asked according to thy will, may effectually be ob<g ref="char:EOLhyphen"/>tain'd, to the relief of our neceſſities, and to the ſetting forth of thy glory, through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+                  </p>
+                  <div type="section">
+                     <p>O<g ref="char:V">Ʋ</g>R Father, which art in Heaven; Hallowed be thy Name. Thy Kingdom come. Thy will be done in Earth as it is in Heaven. Give us this day our daily bread. And forgive us our treſ<g ref="char:EOLhyphen"/>paſſes, as we forgive them that treſpaſs againſt us And lead us not into temptation; but deliver us from evil: For thine is the Kingdom, and the pow<g ref="char:EOLhyphen"/>er, and the glory, for ever and ever. <hi>Amen.</hi>
+                     </p>
+                     <p>THE Grace of our Lord Jeſus Chriſt, an<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> the love of God, and the fellowſhip o<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> the holy Ghoſt be with us all this day and eve<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>Amen.</hi>
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <div type="evening_prayer">
+               <pb n="13" facs="tcp:108525:8"/>
+               <head>EVENING PRAYER.</head>
+               <p>LOrd we know not what to pray for as we ought: O let thy bleſſed Spirit help our <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nfirmities, and keep us from all cold Deſires <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd wandering Thoughts, from all Hardneſs of Heart, Impenitence and Uncharitableneſs, and whatſoever may make our Prayers unaccepta<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le to thee, through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p>ALmighty God, Father of our Lord Jeſus Chriſt, Maker of all things, Judge of all men; we acknowledge and bewail our mani<g ref="char:EOLhyphen"/>fold ſins and wickedneſs, which we from time <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o time moſt grievouſly have committed by Thought, Word and Deed againſt thy divine Majeſty, provoking moſt juſtly thy wrath and <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndignation againſt us. We do earneſtly re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent, and are heartily ſorry for our Miſ-do<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngs; the Remembrance of them is grievous to <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, the burden of them is intollerable. Have mercy upon us, have mercy upon us, moſt mer<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iful Father, for thy Son our Lord Jeſus Chriſts ſake, forgive us all that is paſt, and grant that we may ever hereafter ſerve and pleaſe thee in <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ewneſs of life, to the honour and glory of thy Name, through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p>O Moſt gracious God, who doſt ſo put away the ſins of all them that truly repent, that <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hou remembreſt them no more. Open thine Eye of Mercy upon us thy Servants, who moſt <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arneſtly deſire pardon and forgiveneſs; renew <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n us moſt loving Father whatſoever hath been <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ecayed by the fraud and malice of the Devil, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r by our own carnal Will and Frailneſs, keep
+<pb n="14" facs="tcp:108525:9"/> us in the unity of thy Church, and make us li<g ref="char:EOLunhyphen"/>ving members of the ſame; accept our repen<g ref="char:EOLunhyphen"/>tance, and impute not unto us our former ſins ſtrengthen our Faith, and confirm us in all goodneſs, and keep us in the ſame by thy Grace<g ref="char:punc">▪</g> and bring us to everlaſting Life, through Jeſu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p>O God, from whom all holy deſires, all goo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Counſels, and all juſt Works do proceed Give unto thy ſervants that peace which th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> world cannot give, that both our hearts may b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſet to obey thy Commandments, and alſo that b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thee we being defended from the fear our ene<g ref="char:EOLhyphen"/>mies, may paſs our time in reſt and quietneſs through the merits of Jeſus Chriſt our Savi<g ref="char:EOLhyphen"/>our. <hi>Amen.</hi>
+               </p>
+               <p>O Lord, who haſt taught us, that all our do<g ref="char:EOLhyphen"/>ings without Charity, are nothing worth<g ref="char:punc">▪</g> ſend thy holy Ghoſt, and pour into our hearts that moſt excellent gift of Charity, the very bond of Peace, and of all Vertues; without which, whoſoever liveth is accounted dead be<g ref="char:EOLhyphen"/>fore thee. Grant this for thine only Son, Jeſu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Chriſt's ſake. <hi>Amen.</hi>
+               </p>
+               <p>ALmighty God, we are taught by thy hol<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Word, that the hearts of Kings are in th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> rule and governance, receive our Prayers for th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Servant <hi>George</hi> ſet over us by thy gracious Pro<g ref="char:EOLunhyphen"/>vidence to be our King; and ſo together wit<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him, bleſs <hi>George</hi> Prince of <hi>Wales,</hi> and all th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Royal Family, with the dew of thy heavenl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Spirit, that they ever truſting in thy goodneſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> protected by thy Power, and Crowned by th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="15" facs="tcp:108525:9"/> gracious and endleſs Favour, may continue be<g ref="char:EOLhyphen"/>fore thee in Health, Peace, Joy and Honour, a long and happy life upon Earth, and after death obtain everlaſting life and glory in the Kingdom of Heaven, through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p>O Moſt gracious Lord God, from whom every good and perfect Gift cometh, we wretched Creatures, that are not able of our ſelves, ſo much as to think a good thought, beſeech thee to work in us both to will and do according to thy good pleaſure. Inlighten our minds that we may know thee, and let us not be barren or un<g ref="char:EOLhyphen"/>fruitful in that knowledge: Lord, work in our hearts a true Faith, a purifying hope, and an unfeigned love towards thee, give us a full truſt on thee, zeal for thee, reverence of all things that relate to thee; make us fearful to offend thee, thankful for thy mercies, humble under thy Corrections, devout in thy Service, ſorrow<g ref="char:EOLhyphen"/>ful for our ſins, and grant that in all things we may behave our ſelves ſo as befits Creatures to their Creator, and Servants to their Lord. E<g ref="char:EOLhyphen"/>nable us likewiſe to perform that Duty which we owe to our ſelves; give us that meekneſs, humility, and contentedneſs, whereby we may always poſſeſs our ſouls in patience and thank<g ref="char:EOLhyphen"/>fulneſs; make us diligent in all our duties, and perfectly pure and temperate. Make us alſo to be ſo affected towards our Neighbour, that we may never tranſgreſs that royal Law of thine, of loving him as our ſelves; grant us exactly to perform all parts of Juſtice, yielding to all whatſoever by any kind of right becomes their
+<pb n="16" facs="tcp:108525:10"/> due, and give us ſuch bowels of mercy and com<g ref="char:EOLhyphen"/>paſſion, that we may never fail to do all acts of charity to all men, whether Friends or Ene<g ref="char:EOLhyphen"/>mies, according to thy command and example. Finally, we beſeech thee, O Lord, to ſanctify us throughout, that our whole ſpirit, and ſoul and body, may be preſerved blameleſs, to the coming of our Lord Jeſus Chriſt, to whom with thee, and the holy Ghoſt, be all honour and glory. <hi>Amen.</hi>
+               </p>
+               <p>O Lord we thank thee for the mercies of the day paſt, and humbly beſeech thee to watch over us this Night, and preſerve us and all that belongs to us from Sin and Danger. And be<g ref="char:EOLhyphen"/>cauſe we know neither the Day nor hour of our Maſters coming, grant us grace that we may be always ready; and that we may never live in ſuch a ſtate as we ſhall be afraid to die, but may take care ſo to live, that we may die unto the Lord.</p>
+               <div type="part">
+                  <p>Our Father, which art in Heaven; Hallowed be thy Name. <hi>&amp;c.</hi>
+                  </p>
+                  <p>ALmighty God, who haſt given us Grace at this time with one accord to make our common Supplications unto thee, and doſt promiſe, that when two or three are gathered together in thy Name, thou wilt grant their Requeſts; fulfil now, O Lord, the Deſires and Petitions of thy Servants as may be moſt ex<g ref="char:EOLhyphen"/>pedient for us; granting us in this World Knowledge of thy Truth, and in the World to come Life everlaſting. <hi>Amen.</hi>
+                  </p>
+                  <p>The Grace of our Lord Jeſus Chriſt, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
